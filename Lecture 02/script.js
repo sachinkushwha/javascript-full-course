@@ -50,7 +50,7 @@
 // logical ope
 console.log(false && true); // false
 console.log(true || false); // true
-console.log(!false);         // false
+console.log(!false);        // false
 
 /*
 this is multiline
